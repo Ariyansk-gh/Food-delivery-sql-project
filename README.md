@@ -31,18 +31,18 @@ ratings – Customer reviews & feedback
 
 This project includes almost every SQL topic required for interviews and practice:
 
- DDL (CREATE, ALTER, DROP)
- DML (INSERT, UPDATE, DELETE)
- SQL Clauses (WHERE, LIKE, BETWEEN, IN)
- GROUP BY & HAVING
- ORDER BY
- Joins (Inner, Left, Right, Cross, Full using UNION)
- Subqueries (Single, Multiple, Correlated)
- Views
- Union & Union All
- DCL (GRANT, REVOKE)
- TCL (COMMIT, ROLLBACK, SAVEPOINT)
- 20 Practice Questions with Answers
+ 1. DDL (CREATE, ALTER, DROP)
+ 2. DML (INSERT, UPDATE, DELETE)
+ 3. SQL Clauses (WHERE, LIKE, BETWEEN, IN)
+ 4. GROUP BY & HAVING
+ 5. ORDER BY
+ 6. Joins (Inner, Left, Right, Cross, Full using UNION)
+ 7. Subqueries (Single, Multiple, Correlated)
+ 8. Views
+ 9. Union & Union All
+ 10. DCL (GRANT, REVOKE)
+ 11. TCL (COMMIT, ROLLBACK, SAVEPOINT)
+
 
 📂 Files in This Project
 File	Description
@@ -71,11 +71,11 @@ Understanding real-world database design
 Practicing subqueries, joins, and views
 
 * Author
-Ariyan Shaikh
-SQL • Python • Data Science • Business Intelligence
+- Ariyan Shaikh
+- SQL • Python • Data Science • Business Intelligence
 
 ⭐ Support
-If you like this project, please ⭐ star the repository on GitHub!
+- If you like this project, please ⭐ star the repository on GitHub!
 
 
 
